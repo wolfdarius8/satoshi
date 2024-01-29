@@ -6,3 +6,5 @@ channel
 ### main method
 
 ### dotnet
+
+#### statik void main
